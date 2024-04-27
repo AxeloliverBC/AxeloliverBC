@@ -4,7 +4,9 @@
 <img src="https://media2.giphy.com/media/3ohze37KaUXb6L9Ktq/giphy.gif?cid=6c09b952clwe0qopmybkh9k2krp9wudm4z0f13km3120njxr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Gif" width="300" />
 </p>
 
+<p style="text-align:center">
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software. Me encanta explorar nuevas herramientas y lenguajes de programación, además de colaborar en proyectos emocionantes.
+</p>
 
 ### Acerca de mí
 
