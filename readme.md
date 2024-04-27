@@ -13,6 +13,14 @@
 - 💻 Lenguajes y tecnologías favoritas: Java, HTML, CSS, Arena.
 - 📫 Puedes contactarme a través de [axelbalboa06@gmail.com].
 
+
+### Estadísticas de GitHub 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxeloliverBC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxeloliverBC&show_icons=true&theme=radical)
+
+
 ### Lenguajes y Herramientas
 
 <p>
@@ -21,12 +29,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40" />
 </p>
-
-### Estadísticas de GitHub 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxeloliverBC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxeloliverBC&show_icons=true&theme=radical)
 
 ### ¡Sígueme y colaboremos! 🤝
 
