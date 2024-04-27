@@ -15,13 +15,12 @@
 - 💻 Lenguajes y tecnologías favoritas: Java, HTML, CSS, Arena.
 - 📫 Puedes contactarme a través de [axelbalboa06@gmail.com].
 
-<p align="center">
+
 ### Estadísticas de GitHub 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxeloliverBC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AxeloliverBC&show_icons=true&theme=radical)
-</p>
 
 ### Lenguajes y Herramientas
 
